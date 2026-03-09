@@ -1,1 +1,2 @@
 # AddressBookApp
+- core java concepts
